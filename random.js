@@ -1,3 +1,5 @@
+const { timingSafeEqual } = require("crypto");
+
 let num = Math.random();
 console.log(num);
 dfsdfysdf
@@ -5,3 +7,4 @@ dfsdfysdf
 random txt
 lflkasdjf;aks
 fadlukfhadsf
+timingSafeEqual
